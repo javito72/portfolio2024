@@ -32,6 +32,8 @@ section {
 #sobre-mi-titulo {
     font-size: 1.5rem;
     text-decoration: underline;
+    background-color: #33d9b2;
+    margin: 0 20%;
 }
 
 .parrafo1 {
@@ -96,6 +98,16 @@ nav ul {
 
 .enlaces a:active {
     color: red;
+}
+
+#titulo-que-hago {
+    background-color: #33d9b2;
+    margin: 0 20%;
+}
+
+#titulo-tec {
+    background-color: #33d9b2;
+    margin: 0 20%;
 }
 
 /* Estilos para la tabla */
@@ -190,6 +202,12 @@ footer {
 @media (max-width: 768px) {
     section {
         flex-direction: column;
+    }
+}
+
+@media (max-width: 480px) {
+    img {
+        width: 80%;
     }
 }
 
