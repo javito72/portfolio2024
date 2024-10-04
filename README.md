@@ -3,5 +3,5 @@
 
 ## Segunda parte de mi portfolio, centrándome en desarrollar código HTML y CSS3 a través ## del programa Visual Studio Code.
 
- <img src="img/sample.png" alt="Captura del portfolio" width="400">
+ <img src="images/sample.png" alt="Captura del portfolio" width="400">
 
