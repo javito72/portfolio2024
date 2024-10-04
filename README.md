@@ -1,7 +1,7 @@
-# portfolio2024
-# Práctica Formativa N°1
+# Práctica Formativa N°2
 # Front End
 
-## Primera parte de mi portfolio, centrándome en desarrollar código HTML y CSS3 a través ## del programa Visual Studio Code.
+## Segunda parte de mi portfolio, centrándome en desarrollar código HTML y CSS3 a través ## del programa Visual Studio Code.
 
- <img src="images/sample.png" alt="Captura del portfolio" width="400">
+ <img src="img/sample.png" alt="Captura del portfolio" width="400">
+
